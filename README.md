@@ -1,1 +1,1 @@
-# M1_LSB_IMAGE_Steganoraphy_systemsecurity
+# M1_LSB_IMAGE_Steganography_systemsecurity
