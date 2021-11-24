@@ -6,4 +6,4 @@
 
 [![Static code Cppcheck](https://github.com/Shashank930/M1_LSB_IMAGE_Steganography_systemsecurity/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Shashank930/M1_LSB_IMAGE_Steganography_systemsecurity/actions/workflows/cppcheck.yml)
 
-https://api.codiga.io/project/29909/status/svg
+![Code_Quality_score](https://api.codiga.io/project/29909/status/svg)
